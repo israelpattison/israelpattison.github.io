@@ -15,13 +15,15 @@ primarylinks:
    url: https://www.linkedin.com/in/israelpattison
 
 #Any buzzword skills you want to include
-skills:
- - Agile
+keywords:
  - DevOps
- - Product Owner
- - ScrumMaster
- - QA
+ - Planning & Estimation
+ - Quality Assurance
+ - Leadership
+ - Software Engineering
  - Automation
+ - Hardware Integration
+ - Troubleshooting
  - Linux
  - Shell Scripting
  - Python
